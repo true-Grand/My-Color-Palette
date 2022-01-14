@@ -24,9 +24,9 @@
   --button-destructive-active: #fa4a4a !important;
 }
 .theme-light {
-  --accent-color: #9f74e7 !important;
+  --accent-color: #2a2030 !important;
   --background-1: #ffffff !important;
-  --background-2: #f9f7f9 !important;
+  --background-2: #ee98d5 !important;
   --border-color: transparent !important;
   --background-mentioned: #9f74e710 !important;
   --background-mentioned-hover: #9f74e715 !important;
@@ -34,7 +34,7 @@
   --background-modifier-active: #c6bec9 !important;
   --text-normal: #402b4d !important;
   --text-muted: #9d91a3 !important;
-  --text-link: #813fd0 !important;
+  --text-link: #ee98d5 !important;
   --settings-icon-color: #776880 !important;
   --tab-selected: var(--background-1) !important;
   --switch: #d4ced7 !important;
