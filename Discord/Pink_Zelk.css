@@ -9,6 +9,7 @@
   --background-modifier-hover: #be7cae !important;
   --background-modifier-active: #3d3745 !important;
   --text-normal: var(--accent-color) !important;
+  --text-positive: #6ee1b6 !important;
   --text-muted: #7d718c !important;
   --text-link: #8cbeff !important;
   --settings-icon-color: #a293b4 !important;
